@@ -6,7 +6,7 @@ A modern remake of the iconic Nokia *Snake Game, built using **HTML, **CSS, and 
 
 ## 🚀 Live Demo
 
-🔗 Play now: [SnakeMania on GitHub Pages](https://yourusername.github.io/snakemania)
+🔗 Play now: https://antima1111.github.io/Snakemania/
 
 ---
 
